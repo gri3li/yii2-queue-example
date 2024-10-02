@@ -10,7 +10,7 @@ Deploy
 docker compose up -d
 ```
 
-2) Waiting `deploy-1` service......
+2) Wait while the service `deploy-1` completes its operation......
 
 3) Done!
 
