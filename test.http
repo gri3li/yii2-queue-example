@@ -1,0 +1,15 @@
+###
+POST http://localhost:80/requests
+Content-Type: application/json
+
+{
+  "user_id": 16,
+  "amount": 3000,
+  "term": 30
+}
+
+
+
+###
+GET http://localhost:80/processor?delay=5
+
